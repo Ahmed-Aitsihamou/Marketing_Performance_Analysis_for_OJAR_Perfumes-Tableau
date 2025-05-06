@@ -52,6 +52,6 @@ Steps:
 
 **Author:** Ahmed Ait Si Hamou  
 **Role:** Data Analyst  
-**LinkedIn:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/)
+**LinkedIn:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/)  
 **Tableau Public:** [Link](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
  
