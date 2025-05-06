@@ -58,4 +58,5 @@ Steps:
 
 **Author:** Ahmed Ait Si Hamou  
 **Role:** Data Analyst  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+**LinkedIn:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/)
+ 
