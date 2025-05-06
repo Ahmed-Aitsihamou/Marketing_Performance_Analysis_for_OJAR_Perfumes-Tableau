@@ -1,4 +1,4 @@
-# 🧴 OJAR Marketing Performance Analysis – CPA, CR & AOV Benchmarking  
+# 🧴 OJAR Marketing Performance Analysis – CPA, CR & AOV 
 
 This project analyzes the digital marketing performance of OJAR, a premium perfume brand, across three major platforms — **Google**, **TikTok**, and **Meta** — using key marketing metrics to guide strategic ad spend decisions and improve ROI.
 
