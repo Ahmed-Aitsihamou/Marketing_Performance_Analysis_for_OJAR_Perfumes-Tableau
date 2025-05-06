@@ -11,11 +11,6 @@ Evaluate and compare each platform’s effectiveness based on:
 This enables informed budget allocation across channels and smarter targeting.
 
 ## 🧠 Methodology  
-Data Sources:
-- Campaign Performance Metrics (CSV)
-- Sales Orders with Revenue per Platform (CSV)
-- Platform Metadata (CSV)
-
 Steps:
 - Aggregate marketing KPIs per platform
 - Cross-reference conversions with sales data
